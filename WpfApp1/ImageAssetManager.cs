@@ -167,8 +167,6 @@ public class ImageAssetManager
             { "health", "assets/icons/health.png" },
             { "history_servers", "assets/icons/history_servers.png"},
             { "home", "assets/icons/home.png" }
-
-            //            { "", ""},
         };
     }
 

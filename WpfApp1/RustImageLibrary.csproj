@@ -26,8 +26,8 @@
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
     <UpdateUrl>http://localhost/RustImageLibrary/</UpdateUrl>
-    <ApplicationRevision>84</ApplicationRevision>
-    <ApplicationVersion>1.0.2.84</ApplicationVersion>
+    <ApplicationRevision>85</ApplicationRevision>
+    <ApplicationVersion>1.0.3.85</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
