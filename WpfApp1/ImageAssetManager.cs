@@ -234,7 +234,22 @@ public class ImageAssetManager
             { "maparrow", "assets/icons/maparrow.png" },
             { "Marker", null },
             { "MarkerCurrent", null },
-            { "maximum", "assets/icons/maximum.png" }
+            { "maximum", "assets/icons/maximum.png" },
+            { "medical", "assets/icons/medical.png" },
+            { "menu_dots", "assets/icons/menu_dots.png" },
+            { "mission_icon", null },
+            { "mission_provider", null },
+            { "mlrs_border_double", null },
+            { "mlrs_border_single", null },
+            { "mlrs_diagonal_lines", null },
+            { "mlrs_dotted_circle", null },
+            { "mlrs_scanlines", null },
+            { "mlrs_target_circle_fade", null },
+            { "mlrs_target_cross", null },
+            { "modded_servers", "assets/icons/modded_servers.png" },
+            { "nextframe", null },
+            { "nude_icon", null },
+            { "occupied", "assets/icons/occupied.png" }
         };
     }
 
