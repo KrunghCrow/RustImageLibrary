@@ -532,7 +532,9 @@
     <Content Include="Resources\Icons\hypnotized.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Resource Include="Resources\Icons\ice.pack.icon.png" />
+    <Content Include="Resources\Icons\ice.pack.icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Resources\Icons\icon-focus.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -667,6 +669,9 @@
     </Content>
     <Content Include="Resources\Icons\insurance_icon.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\isbroken.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\Icons\iscooking.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
