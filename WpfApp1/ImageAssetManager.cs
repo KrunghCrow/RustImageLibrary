@@ -228,7 +228,8 @@ public class ImageAssetManager
             { "lick", "assets/icons/lick.png" },
             { "light", null },
             { "light_campfire", "assets/icons/light_campfire.png" },
-            { "lightbulb", "assets/icons/lightbulb.png" }
+            { "lightbulb", "assets/icons/lightbulb.png" },
+            { "loading", "assets/icons/loading.png" }
         };
     }
 
