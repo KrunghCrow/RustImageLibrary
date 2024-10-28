@@ -229,7 +229,12 @@ public class ImageAssetManager
             { "light", null },
             { "light_campfire", "assets/icons/light_campfire.png" },
             { "lightbulb", "assets/icons/lightbulb.png" },
-            { "loading", "assets/icons/loading.png" }
+            { "loading", "assets/icons/loading.png" },
+            { "lungs", null },
+            { "maparrow", "assets/icons/maparrow.png" },
+            { "Marker", null },
+            { "MarkerCurrent", null },
+            { "maximum", "assets/icons/maximum.png" }
         };
     }
 
