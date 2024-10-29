@@ -64,11 +64,16 @@ public class ImageAssetManager
             // <------------------------------------------------------------------------------------------------------- Plugins : Custom steam workshop skins (for use of Plugin icons as skinid)
             { "AirEvent-Plugin" , "3350914432"},
             { "AlphaAnimals icon new3-512" , "3350306166"},
+            { "ArmoredTrain-1", "3356939229"},
+            { "ArmoredTrain-2", "3356939405"},
+            { "BetterTinCan-Plugin", "" },
             { "BossMonster-Plugin" , "3351500714"},
             { "Caravan-Plugin" , "3350893464"},
             { "Convoy-plugin" , "3350873031"},
             { "HarborEvent-Plugin" , "3350905658"},
             { "JunkpileNPC-Plugin", "3356931978"},
+            { "MonumentOwner-Plugin", "3356959226" },
+            { "Pumpkinhead-Plugin", "3356934944" },
             { "SatDishEvent-plugin2", "3349456852"},
             { "waterevent-plugin1" , "3349460078"},
             // <------------------------------------------------------------------------------------------------------- Icons : From Rust gamefiles
