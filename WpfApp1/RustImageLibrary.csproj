@@ -8,13 +8,14 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>RustImageLibrary</RootNamespace>
     <AssemblyName>RustImageLibrary</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <WarningLevel>4</WarningLevel>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
     <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
     <PublishUrl>D:\Krungh Crow\My own Apps\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -26,8 +27,8 @@
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
     <UpdateUrl>http://localhost/RustImageLibrary/</UpdateUrl>
-    <ApplicationRevision>85</ApplicationRevision>
-    <ApplicationVersion>1.0.3.85</ApplicationVersion>
+    <ApplicationRevision>86</ApplicationRevision>
+    <ApplicationVersion>1.0.3.86</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
@@ -52,7 +53,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Resources\rust-marque 32x32.ico</ApplicationIcon>
+    <ApplicationIcon>Resources\KrunghCrowIcon.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>3164F8E1B8B9893EAC44012446476E4308347033</ManifestCertificateThumbprint>

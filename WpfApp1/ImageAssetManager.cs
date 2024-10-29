@@ -66,7 +66,7 @@ public class ImageAssetManager
             { "AlphaAnimals icon new3-512" , "3350306166"},
             { "ArmoredTrain-1", "3356939229"},
             { "ArmoredTrain-2", "3356939405"},
-            { "BetterTinCan-Plugin", "" },
+            { "BetterTinCan-Plugin", "3356969725" },
             { "BossMonster-Plugin" , "3351500714"},
             { "Caravan-Plugin" , "3350893464"},
             { "Convoy-plugin" , "3350873031"},
