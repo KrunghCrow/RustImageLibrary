@@ -1,14 +1,14 @@
 ﻿using System;
-using System.Collections.Generic; // Required for List<string>
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Reflection;
-using System.Windows; // Ensure this is used for WPF
+using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media.Imaging;
 using System.Windows.Media;
 using System.ComponentModel;
-using System.Windows.Forms; // This is for WinForms, ensure to use only where needed
+using System.Windows.Forms;
 using System.Windows.Shapes;
 using RustImageLibrary;
 
@@ -16,7 +16,7 @@ namespace WelcomeApp
 {
     public partial class MainWindow : Window
     {
-        private readonly ImageAssetManager assetManager; // Field for the asset manager
+        private readonly ImageAssetManager assetManager;
 
         public MainWindow()
         {
