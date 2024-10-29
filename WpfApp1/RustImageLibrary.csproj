@@ -1149,7 +1149,7 @@
     <Content Include="Resources\PluginIcons\HarborEvent-Plugin.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Resources\PluginIcons\JunkpileNpc-plugin.png">
+    <Content Include="Resources\PluginIcons\JunkpileNPC-Plugin.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\PluginIcons\SatDishEvent-plugin2.png">

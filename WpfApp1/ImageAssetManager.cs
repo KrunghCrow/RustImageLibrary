@@ -68,7 +68,7 @@ public class ImageAssetManager
             { "Caravan-Plugin" , "3350893464"},
             { "Convoy-plugin" , "3350873031"},
             { "HarborEvent-Plugin" , "3350905658"},
-            { "JunkpileNpc-plugin", null},
+            { "JunkpileNPC-Plugin", "3356931978"},
             { "SatDishEvent-plugin2", "3349456852"},
             { "waterevent-plugin1" , "3349460078"},
             // <------------------------------------------------------------------------------------------------------- Icons : From Rust gamefiles
