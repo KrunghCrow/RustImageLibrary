@@ -215,6 +215,9 @@
     <Content Include="Resources\Avatars\workcart.entity.icon.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Resources\Custom\Cornhead-Avatar.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Resources\Custom\JunkpileNpc.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

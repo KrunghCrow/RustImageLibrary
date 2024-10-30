@@ -57,6 +57,7 @@ public class ImageAssetManager
             // <------------------------------------------------------------------------------------------------------- Custom : steam workshop skins (for use of Avatars as skinid)
             { "Boss_small_Avatar2", "3348953744" },
             { "Bradley_Guard_avatar", "3350450613"},
+            { "Cornhead-Avatar", "3356991975" },
             { "JunkpileNpc", "3349208089"},
             { "PumpkinHead", "3353252003"},
             { "zombieavatar", "3348694705"},
