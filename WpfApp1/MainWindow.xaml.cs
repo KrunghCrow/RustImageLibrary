@@ -32,7 +32,7 @@ namespace WelcomeApp
             var screenWidth = SystemParameters.PrimaryScreenWidth;
             var screenHeight = SystemParameters.PrimaryScreenHeight;
 
-            var offsetWidth = screenWidth * 0.50;
+            var offsetWidth = screenWidth * 0.40;
             var offsetHeight = screenHeight * 0.25;
 
             Width = screenWidth - offsetWidth;

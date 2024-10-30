@@ -105,10 +105,26 @@
                        VerticalAlignment="Center"/>
         </StackPanel>
 
-        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled" Margin="100,100,100,50">
+        <ScrollViewer 
+    Grid.Row="1" 
+    VerticalScrollBarVisibility="Auto" 
+    HorizontalScrollBarVisibility="Disabled" 
+    Margin="100,100,100,100" 
+    Background="Transparent" 
+    BorderBrush="Transparent" 
+    BorderThickness="0">
+
+            <ScrollViewer.Resources>
+                <Style TargetType="ScrollBar">
+                    <Setter Property="Opacity" Value="0" />
+                    <!-- Hide the scrollbars -->
+                    <Setter Property="Background" Value="Transparent" />
+                </Style>
+            </ScrollViewer.Resources>
+
             <WrapPanel>
-                <WrapPanel x:Name="AvatarsWrapPanel"/>
-                <WrapPanel x:Name="ColorWrapPanel" HorizontalAlignment="Center"/>
+                <WrapPanel x:Name="AvatarsWrapPanel" HorizontalAlignment="Center" />
+                <WrapPanel x:Name="ColorWrapPanel" HorizontalAlignment="Center" />
             </WrapPanel>
         </ScrollViewer>
 
